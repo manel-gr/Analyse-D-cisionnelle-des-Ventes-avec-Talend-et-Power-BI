@@ -34,13 +34,21 @@ L'objectif est de transformer les données opérationnelles en informations expl
 ## Architecture du projet
 
 Northwind Database
+
 ↓
-Talend ETL
+
+Talend ETL 
+
 ↓
+
 Data Warehouse (MySQL)
+
 ↓
+
 DataMart (Schéma en étoile)
+
 ↓
+
 Power BI Dashboard
 
 ---
